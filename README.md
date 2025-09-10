@@ -3,8 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Coder%20Bee🐝!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-<p align="center">
-我是小蜜蜂，一个游走在严谨与混沌边缘的现代炼金术士，原料是咖啡，产物是代码。立志成为优秀的Java后端开发工程师、云运维工程师。这是一个开源项目的汇总仓库，一般每隔一个季度更新一次。
+<p align="center" style="font-family:'Georgia', serif; font-size:17px; line-height:1.7; background:linear-gradient(90deg,#ffb347,#ffcc33); -webkit-background-clip:text; color:transparent;">
+我是小蜜蜂，一个游走在严谨与混沌边缘的现代炼金术士 —— 原料是奶茶，产物是代码。  
+立志成为优秀的 Java 后端开发工程师、云运维工程师。  
+这是一个开源项目的汇总仓库，一般每隔一个季度更新一次。
 </p>
 
 <p align="center">
