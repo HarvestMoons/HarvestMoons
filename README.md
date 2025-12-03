@@ -4,27 +4,19 @@
 </p>
 
 <p align="center" style="font-family:'Georgia', serif; font-size:17px; line-height:1.7; background:linear-gradient(90deg,#ffb347,#ffcc33); -webkit-background-clip:text; color:transparent;">
-我是小蜜蜂，一个游走在严谨与混沌边缘的现代炼金术士 —— 原料是奶茶，产物是代码。  
+我是小蜜蜂，一个游走在严谨与混沌边缘的现代炼金术士。  
 立志成为优秀的 Java 后端开发工程师、云运维工程师。  
 这是一个开源项目的汇总仓库，一般每隔一个季度更新一次。
 </p>
 
 <p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=HarvestMoons&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=HarvestMoons&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HarvestMoons&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Coder_Bee&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarvestMoons&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=10" />
-<br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=java,vue,docker,mysql,py,linux,js,md&theme=light" />
 </p>
 
 <!-- https://github.com/badges/shields -->
